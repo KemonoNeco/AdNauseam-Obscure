@@ -1,0 +1,11 @@
+# One seed phrase per line. Lines starting with # are ignored.
+gift ideas
+best deals
+holiday sale
+wireless
+eco friendly
+budget
+
+
+
+
